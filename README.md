@@ -19,7 +19,7 @@ I bring to the table:
 ## 💻 Featured Information Systems Projects
 
 ### 📌 Student Internship Tracker (C#, JavaScript, HTML, CSS)  
-[🔗 View Project](#)  
+[🔗 View Project](https://github.com/Briandwards/Student-Internship-Tracker)  
 - Developed a web-based application to track student internship applications, approvals, and progress.  
 - Implemented authentication and role-based access control for students and faculty.  
 - Designed front-end UI in HTML/CSS with dynamic interactivity via JavaScript.  
@@ -27,7 +27,7 @@ I bring to the table:
 ---
 
 ### 🎬 Movie Buffs App (Kotlin)  
-[🔗 View Project](#)  
+[🔗 View Project](https://github.com/Briandwards/MovieBuffsApp)  
 - Android mobile app allowing users to search, rate, and review movies.  
 - Integrated external APIs for movie data and optimized UI for Android devices.  
 - Gained hands-on experience in Kotlin app development and API integration.  
@@ -35,7 +35,7 @@ I bring to the table:
 ---
 
 ### 📰 Doom News App (Kotlin)  
-[🔗 View Project](#)  
+[🔗 View Project](https://github.com/Briandwards/DoomNews)  
 - News aggregation app pulling articles from multiple RSS feeds.  
 - Implemented search, filtering, and bookmarking functionality for end users.  
 - Practiced mobile UX design and data parsing with Kotlin.  
