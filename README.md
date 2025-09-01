@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Computer Information System Projects:</h2>
 
-- <b>Student-Internship-Tracker (C#, JavaScript)</b>
+- <b>Student-Internship-Tracker (C#, JavaScript, HTML, CSS)</b>
   - [Student-Internship-Tracker](https://github.com/Briandwards/Student-Internship-Tracker)
 - <b>Movie Buffs App (Kotlin)</b>
   - [Movie Buffs App](https://github.com/Briandwards/MovieBuffsApp) 
