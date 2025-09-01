@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian! <br/><a href="https://github.com/Briandwards">IT Professional</a>, Certified In Cybersecurity</a>, <a>Computer Information Systems Major</a></h1>
+<h1>Hi, I'm Brian! <br/><a href="https://github.com/Briandwards">IT Professional</a>, Certified In Cybersecurity</a>, <a>Computer Information Systems Major, Here are some of my bigger projects I have done over the course of my degree</a></h1>
 
 <h2>👨‍💻 Computer Information System Projects:</h2>
 
