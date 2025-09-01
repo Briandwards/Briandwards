@@ -1,36 +1,58 @@
-<h1>Hi, I'm Brian! <br/><a href="https://github.com/Briandwards">IT Professional</a>, Certified In Cybersecurity</a>, <a>Computer Information Systems Major, Here are some of my bigger projects I have done over the course of my degree</a></h1>
+# Hi, I'm Brian Edwards  
 
-<h2>👨‍💻 Computer Information System Projects:</h2>
+**IT Professional | ISC² Certified in Cybersecurity | Computer Information Systems Graduate**  
 
-- <b>Student-Internship-Tracker (C#, JavaScript, HTML, CSS)</b>
-  - [Student-Internship-Tracker](https://github.com/Briandwards/Student-Internship-Tracker)
-- <b>Movie Buffs App (Kotlin)</b>
-  - [Movie Buffs App](https://github.com/Briandwards/MovieBuffsApp) 
-- <b>Doom News (Kotlin)</b>
-  - [Doom News App](https://github.com/Briandwards/DoomNews)
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🌟 Professional Summary
+I am an Information Systems professional with a strong foundation in **cybersecurity, software development, and database management**.  
+My academic and hands-on project experience has equipped me to design and implement secure, user-friendly applications that solve real-world problems.  
 
-[<img align="left" alt="BrianEdwards | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+I bring to the table:  
+- A proven ability to **analyze business needs** and translate them into technical solutions.  
+- Strong skills in **application development** (C#, JavaScript, Kotlin) and **database systems** (SQL).  
+- Certification in cybersecurity (ISC² CC), demonstrating my commitment to **secure system design and risk management**.  
+- A passion for continuous learning and applying technology to improve organizational efficiency and security.  
 
-[linkedin]: https://linkedin.com/in/brian-edwards-computer-information-systems/
+---
 
-![image alt](https://github.com/Briandwards/Briandwards/blob/main/Screenshot%202025-09-01%20140646.jpg?raw=true)
-![image alt](https://github.com/Briandwards/Briandwards/blob/main/Screenshot%202025-09-01%20140709.jpg?raw=true)
-![image alt](https://github.com/Briandwards/Briandwards/blob/main/Screenshot%202025-09-01%20140724.jpg?raw=true)
-![image alt](https://github.com/Briandwards/Briandwards/blob/main/Screenshot%202025-09-01%20140740.jpg?raw=true)
+## 💻 Featured Information Systems Projects
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Student Internship Tracker (C#, JavaScript, HTML, CSS)  
+[🔗 View Project](#)  
+- Developed a web-based application to track student internship applications, approvals, and progress.  
+- Implemented authentication and role-based access control for students and faculty.  
+- Designed front-end UI in HTML/CSS with dynamic interactivity via JavaScript.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎬 Movie Buffs App (Kotlin)  
+[🔗 View Project](#)  
+- Android mobile app allowing users to search, rate, and review movies.  
+- Integrated external APIs for movie data and optimized UI for Android devices.  
+- Gained hands-on experience in Kotlin app development and API integration.  
+
+---
+
+### 📰 Doom News App (Kotlin)  
+[🔗 View Project](#)  
+- News aggregation app pulling articles from multiple RSS feeds.  
+- Implemented search, filtering, and bookmarking functionality for end users.  
+- Practiced mobile UX design and data parsing with Kotlin.  
+
+---
+
+## 🛠️ Technical Skills
+- **Programming & Development:** C#, JavaScript, Kotlin, HTML, CSS  
+- **Databases:** SQL (MySQL, SQL Server)  
+- **Cybersecurity:** ISC² Certified in Cybersecurity (CC), knowledge of secure application design and risk management  
+- **Tools & Platforms:** GitHub, Azure, Visual Studio, Android Studio  
+
+---
+
+## 🤝 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/brian-edwards-computer-information-systems/)  
+- [GitHub](https://github.com/Briandwards)  
+- [Email](mailto:edwardsbrian2@gmail.com)  
+
+---
