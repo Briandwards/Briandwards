@@ -56,3 +56,8 @@ I bring to the table:
 - [Email](mailto:edwardsbrian2@gmail.com)  
 
 ---
+
+![image alt](https://github.com/Briandwards/Briandwards-Portfolio/blob/main/Screenshot%202025-09-01%20140646.jpg?raw=true)
+![image alt](https://github.com/Briandwards/Briandwards-Portfolio/blob/main/Screenshot%202025-09-01%20140709.jpg?raw=true)
+![image alt](https://github.com/Briandwards/Briandwards-Portfolio/blob/main/Screenshot%202025-09-01%20140724.jpg?raw=true)
+![image alt](https://github.com/Briandwards/Briandwards-Portfolio/blob/main/Screenshot%202025-09-01%20140740.jpg?raw=true)
