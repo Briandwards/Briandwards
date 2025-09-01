@@ -16,6 +16,9 @@
 [linkedin]: https://linkedin.com/in/brian-edwards-computer-information-systems/
 
 ![image alt](https://github.com/Briandwards/Briandwards/blob/main/Screenshot%202025-09-01%20140646.jpg?raw=true)
+![image alt](https://github.com/Briandwards/Briandwards/blob/main/Screenshot%202025-09-01%20140709.jpg?raw=true)
+![image alt](https://github.com/Briandwards/Briandwards/blob/main/Screenshot%202025-09-01%20140724.jpg?raw=true)
+![image alt](https://github.com/Briandwards/Briandwards/blob/main/Screenshot%202025-09-01%20140740.jpg?raw=true)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
